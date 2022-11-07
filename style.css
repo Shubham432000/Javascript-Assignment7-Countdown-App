@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.id{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 200px;
+    border: 1px solid black;
+    height: 100px;
+    width: 650px;
+    margin-left: 300px;
+    padding-top: 50px;
+    background-color: chartreuse;
+}
+
+.id1{
+    margin-left: 20px;
+}
+
+.id2{
+    margin-left: 20px;
+    color: darkblue;
+}
+
+.id3{
+    margin-left: 20px;
+    color: darkmagenta;
+}
+
+.id4{
+    margin-left: 20px;
+    color: red;
+}
